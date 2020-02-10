@@ -1,0 +1,14 @@
+{
+  "name": "docker-exercise",
+  "version": "1.0.0",
+  "description": "how to create a build docker file\u001b[D\u001bbu\u001b[create a dockerfile and build example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muzi.jack@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
